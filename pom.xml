@@ -46,6 +46,18 @@
   
 
   <developers>
+   <developer>
+      <id>alexschwartz</id>
+      <name>Alex Schwartz</name>
+      <email>alschwartz@team.mobile.de</email>
+      <organization>mobile.international GmbH, Germany</organization>
+      <organizationUrl>http://www.mobile.de</organizationUrl>
+      <roles>
+        <role>Release Engineer</role>
+        <role>Programmer</role>
+      </roles>
+    </developer>
+ 
     <developer>
       <id>woodj</id>
       <name>Julian Wood</name>
